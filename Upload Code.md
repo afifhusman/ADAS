@@ -3,7 +3,7 @@
 
 # Set variables
 SKETCH_FILE=$1  # The first argument to the script is the .ino file
-BOARD_FQBN="arduino:avr:uno"  # Board Fully Qualified Name (Change this if needed)
+BOARD_FQBN="arduino:avr:mega"  # Board Fully Qualified Name (Change this if needed)
 
 # Check if a sketch file is provided
 if [ -z "$SKETCH_FILE" ]; then
