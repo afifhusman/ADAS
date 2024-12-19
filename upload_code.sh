@@ -1,4 +1,3 @@
-```shell
 #!/bin/bash
 
 # Set variables
@@ -49,5 +48,3 @@ else
     echo "Upload failed!"
     exit 1
 fi
-
-```
